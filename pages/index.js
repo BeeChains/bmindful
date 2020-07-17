@@ -9,22 +9,22 @@ const Home = () => (
 
     <main>
       <h1 className="title">
-        Welcome to <a href="https://nextjs.org">Next.js!</a>
+        BMINDFUL <a href="https://nextjs.org">Handshake!</a>
       </h1>
 
       <p className="description">
-        Get started by editing <code>pages/index.js</code>
+        Get started being<code>code yourself</code>
       </p>
 
       <div className="grid">
         <a href="https://nextjs.org/docs" className="card">
           <h3>Documentation &rarr;</h3>
-          <p>Find in-depth information about Next.js features and API.</p>
+          <p>Be HERE NOW</p>
         </a>
 
         <a href="https://nextjs.org/learn" className="card">
           <h3>Learn &rarr;</h3>
-          <p>Learn about Next.js in an interactive course with quizzes!</p>
+          <p>Learn to be guided by the Higher Self!</p>
         </a>
 
         <a
