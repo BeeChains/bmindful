@@ -9,11 +9,11 @@ const Home = () => (
 
     <main>
       <h1 className="title">
-        BMINDFUL <a href="https://nextjs.org">Handshake!</a>
+        BMINDFUL <a href="https://handshake.com>Handshake!</a>
       </h1>
 
       <p className="description">
-        Get started being<code>code yourself</code>
+        Get started being!<code>Be the code yourself</code>
       </p>
 
       <div className="grid">
@@ -32,7 +32,7 @@ const Home = () => (
           className="card"
         >
           <h3>Examples &rarr;</h3>
-          <p>Discover and deploy boilerplate example Next.js projects.</p>
+          <p>Discover and deploy Handshake projects.</p>
         </a>
 
         <a
