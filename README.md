@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/zeit/next.js/tree/canary/packages/create-next-app).
+This is a [bmindful domain](https://beechains.github.io/bmindful) [Image](![image](https://user-images.githubusercontent.com/37987346/88022788-e8d48580-cafd-11ea-8113-1914dcb7e91b.png).
 
 ## Getting Started
 
