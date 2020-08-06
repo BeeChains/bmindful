@@ -1,8 +1,8 @@
 This is a [bmindful domain](https://beechains.github.io/bmindful) [MindShark image](![image](https://user-images.githubusercontent.com/37987346/88022788-e8d48580-cafd-11ea-8113-1914dcb7e91b.png).
 
-## Getting Startet
+## Getting Started
 
-Open [bhackme](http://beechains.github.io/bhackme) with your browser to see the result.
+Open [bhackme](home.bhackme/) with your browser to see the result.
 
 You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
@@ -19,4 +19,4 @@ You can check out [ancientmanuscripts domain](home.ancientmanuscripts) - your fe
 
 Contact [bthespirit777@protonmail](https://protonmail.com) a co-creator.
 
-A few good vibes [bthespirit](
+A few good vibes [bthespirit](https://gateway.pinata.cloud/ipfs/QmYpk2DdjnShgeBZUTJKnEgaEj7p1EciWikjP3Kb2Bh3yC/) 
