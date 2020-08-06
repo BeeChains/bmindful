@@ -10,13 +10,13 @@ You can start editing the page by modifying `pages/index.js`. The page auto-upda
 
 To learn more about blockchain domains, take a look at the following resources:
 
-- [lux299 let it Shine!](https://beechains.github.io/lux299) - Lightworker domains built to last lightyears.
-- [144000 domain](https://beechains.github.io/www.144000) - Lightworkers domain.
+- [lux299 let it Shine!](home.lux299/)
+- [144000 domain](home.144000) - Lightworkers domain.
 
-You can check out [ancientmanuscripts domain](https://beechains.github.io/ancientmanuscripts.github.io/) - your feedback and contributions are welcome!
+You can check out [ancientmanuscripts domain](home.ancientmanuscripts) - your feedback and contributions are welcome!
 
 ## At Your Service
 
-Contact here [bthespirit@protonmail](https://protonmail.com) a co-creator.
+Contact [bthespirit777@protonmail](https://protonmail.com) a co-creator.
 
-A few good vibes [bthespirit](https://bthespirit.bandcamp.com/).
+A few good vibes [bthespirit](
