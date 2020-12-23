@@ -1,22 +1,18 @@
-This is a [bmindful domain](https://beechains.github.io/bmindful) [MindShark image](![image](https://user-images.githubusercontent.com/37987346/88022788-e8d48580-cafd-11ea-8113-1914dcb7e91b.png).
+# B Mindful (HNS) TLD
 
-## Getting Started
+# At [Inner I Net Company](http://dlink.innerinetcompany.hns.to/), our Handshake Top Level Domains are nourished from the ROOT OF PERCEPTION to maximize potentials for an abundance of fruits. [Own The Web 3](http://official.owntheweb3.hns.to/) we Consciously CHOOSE to Bend and [SHAPE Reality](http://innerinetcompany.shapereality.hns.to/) while customizing [The Root Zone](http://therootzone.hns.to/) File of the Internet with our [HNS-DOMAINS](http://home.hns-domains.hns.to/).
 
-Open [bhackme](home.bhackme/) with your browser to see the result.
-
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
-
-## Learn More
+## Learn More about Handshake (HNS) Top Level Domains
 
 To learn more about blockchain domains, take a look at the following resources:
 
-- [lux299 let it Shine!](home.lux299/)
-- [144000 domain](home.144000) - Lightworkers domain.
-
-You can check out [ancientmanuscripts domain](home.ancientmanuscripts) - your feedback and contributions are welcome!
+- [Handshake.org/](https://handshake.org/)
+- [NameBase.io/](https://namebase.io/)
 
 ## At Your Service
 
-Contact [bthespirit777@protonmail](https://protonmail.com) a co-creator.
+ We are here to make dreams come true. 
+ 
+- We [Shape Reality](http://innerinetcompany.shapereality.hns.to/) from the Root Of Perception.
 
-A few good vibes [bthespirit](https://gateway.pinata.cloud/ipfs/QmYpk2DdjnShgeBZUTJKnEgaEj7p1EciWikjP3Kb2Bh3yC/) 
+# [Inner I Net Company](http://shapereality.innerinetcompany.hns.to/)
