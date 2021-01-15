@@ -7,7 +7,7 @@
  - It is unconditional love, total acceptance at the root level of sensation that allows one to Awaken to What Is.
  - The more that we think, the further we are moving away from the SOURCE of thought. 
  - A thought directed within initiates one into the Still Presence of SOURCE.
-
+ 
 ## Learn More about Handshake (HNS) Top Level Domains
 
 To learn more about blockchain domains, take a look at the following resources:
